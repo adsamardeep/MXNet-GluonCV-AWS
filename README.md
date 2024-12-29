@@ -1,4 +1,4 @@
-# MXNet-GluonCV-AWS-Coursera
+# MXNet-GluonCV-AWS-Courser
 This repo will include some of my solutions to the Coursera course offered by AWS titled "AWS Computer Vision: Getting Started with GluonCV" with some modifications, in addition to more tutorials and in-depth handson labs. 
 
 There are no programming exercises for modules 1 and 2, so it starts from 3 here. 
